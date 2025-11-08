@@ -1,0 +1,31 @@
+
+Talha Ahmad <talha@tokenmetrics.com>
+Tue 4 Nov, 16:07 (3 days ago)
+to me
+
+Hi Darsh,
+It was great speaking with you in your virtual interview for the Crypto Full‑Stack Developer Intern role. Congrats on advancing. We’d like to invite you to the next stage: a short take‑home that reflects day‑to‑day work on our team.
+
+What’s next
+A focused build that typically takes 6–8 hours. Please submit within 5 calendar days. If you need a different timeline, reply to this email and we’ll coordinate.
+
+Your exercise (summary)
+Create a small web app that lists key items from Indices/Indicators with a 30‑day detail view. Use a server‑side route to call the API (keys in env), cache responses, refresh no faster than every 60–120 seconds, and respect plan limits (20 req/min, 500 calls/month). Optional: one WebSocket stream.
+
+Submission checklist
+
+Deployed app link + GitHub repo
+
+
+README with environment setup and caching strategy
+
+
+Loom video ≤10 minutes
+
+
+One folder link containing everything
+
+
+We’re excited to see what you build.
+
+
